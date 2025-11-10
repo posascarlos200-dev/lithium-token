@@ -1,0 +1,14 @@
+{
+  "name": "Lithium Token List",
+  "logoURI": "https://raw.githubusercontent.com/posascarlos200-dev/lithium-token/main/icono%20lth.png",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xf46f9eca753cb808ed07e736dfee04d70e51befa",
+      "name": "Lithium DC Coin",
+      "symbol": "LTH.COIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/posascarlos200-dev/lithium-token/main/icono%20lth.png"
+    }
+  ]
+}

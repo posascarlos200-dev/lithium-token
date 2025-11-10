@@ -1,13 +1,17 @@
 {
-  "name": "Lithium Token List",
-  "logoURI": "https://raw.githubusercontent.com/posascarlos200-dev/lithium-token/main/icono%20lth.png",
-  "timestamp": "2025-11-09T00:00:00+00:00",
+  "name": "Lithium DC Token List",
+  "timestamp": "2025-11-09T06:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
       "chainId": 8453,
       "address": "0xf46f9eca753cb808ed07e736dfee04d70e51befa",
-      "name": "Lithium DC Coin",
-      "symbol": "LTH",
+      "name": "Lithium DC",
+      "symbol": "LTH.Coin",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/posascarlos200-dev/lithium-token/main/icono%20lth.png"
     }
